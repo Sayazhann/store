@@ -1,0 +1,26 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Худи черного цвета с монограммами adidas Originals",
+      "description": "Мягкая ткань для свитшотов. Стиль и комфорт – это образ жизни.",
+      "price": "6090.00",
+      "quantity": 5,
+      "image": "products_images/Adidas-hoodie.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Синяя куртка The North Face",
+      "description": "Гладкая ткань. Водонепроницаемое покрытие. Легкий и теплый пуховый наполнитель.",
+      "price": "2372.00",
+      "quantity": 1,
+      "image": "products_images/Blue-jacket-The-North-Face_8ZjWHtB.png",
+      "category": 1
+    }
+  }
+]
